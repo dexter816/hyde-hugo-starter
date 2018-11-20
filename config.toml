@@ -7,4 +7,4 @@ disqusShortname = "dexter816"
 googleAnalytics = ""
 layoutReverse = false
 theme = "hyde"
-themeColor = ""
+themeColor = ".theme-base-0d"
