@@ -3,7 +3,7 @@ languageCode = "en-us"
 theme = "hyde"
 title = "Deepika Upadhyay"
 [params]
-disqusShortname = ""
+disqusShortname = "dexter816"
 googleAnalytics = ""
 layoutReverse = false
 theme = "hyde"
