@@ -3,9 +3,8 @@ languageCode = "en-us"
 theme = "hyde"
 title = "Deepika Upadhyay"
 [params]
-disqusShortname = "dexter816"
+disqusShortname = ""
 googleAnalytics = ""
 layoutReverse = false
-publishDir = "docs"
 theme = "hyde"
 themeColor = "theme-base-09"
