@@ -6,6 +6,6 @@ title = "Deepika Upadhyay"
 disqusShortname = "dexter816"
 googleAnalytics = ""
 layoutReverse = false
+publishDir = "docs"
 theme = "hyde"
 themeColor = "theme-base-09"
-publishDir = "docs"
