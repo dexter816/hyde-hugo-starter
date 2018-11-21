@@ -38,10 +38,12 @@ fields:
     description: There are currently eight theme colors available (e.g. theme-base-09,
       theme-base-0b, theme-base-0e etc.). More information on theme colors are available
       at https://github.com/spf13/hyde
+    default: theme-base-09
   - type: boolean
     name: layoutReverse
     label: Reverse Layout
     description: ''
+    default: true
   - type: text
     name: disqusShortname
     label: Disqus Shortname (optional)
