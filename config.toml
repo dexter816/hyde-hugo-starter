@@ -8,3 +8,4 @@ googleAnalytics = ""
 layoutReverse = false
 theme = "hyde"
 themeColor = "theme-base-09"
+publishDir = "docs"
